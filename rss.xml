@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CONFESSIONS OF THE SHADY INVESTOR]]></title>
+        <description><![CDATA[CONFESSIONS OF THE SHADY INVESTOR]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 06:28:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[advice on shady time]]></title>
+            <description><![CDATA[<article><h1>advice on shady time</h1><p>meeting the shady investor and her shady friends</p></article>]]></description>
+            <link>undefinedadvice-on-shady-time/index.html</link>
+            <guid isPermaLink="false">74b3ef3c-46c8-49db-8960-96400ff54c6b</guid>
+            <pubDate>Fri, 23 Oct 2015 06:28:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
