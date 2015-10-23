@@ -1,0 +1,23 @@
+name: SHADYINVESTOR
+favicon: null
+layout_spectrum: 0.18530350970104337
+typography_spectrum: 0.34063280932605267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.289486677153036
+  lightness: 0.9940786550287157
+  saturation: 0.2408738301601261
+  rhythmicContrast: 0.5116842200513929
+purpose: []
