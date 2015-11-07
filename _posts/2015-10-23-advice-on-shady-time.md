@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: meeting the shady investor and her shady friends
-datePublished: '2015-10-23T06:28:53.659Z'
-dateModified: '2015-10-23T06:28:36.884Z'
+datePublished: '2015-11-07T15:14:18.307Z'
+dateModified: '2015-10-23T06:28:53.659Z'
 title: advice on shady time
 authors: []
 publisher:
